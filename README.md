@@ -9,3 +9,4 @@ of hostnames and not have to enter them one at a time with ping.  The script pro
 
 <pre>.\hostnames-to-ipaddress.py</pre>
 
+![Image](https://github.com/CoolPoole/hostnames-to-ipaddresses/blob/master/images/h2i_script.PNG)
