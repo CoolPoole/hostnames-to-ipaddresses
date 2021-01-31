@@ -13,4 +13,4 @@ of hostnames and not have to enter them one at a time with ping.  The script pro
 ![Image](https://github.com/CoolPoole/hostnames-to-ipaddresses/blob/master/images/h2i_script.PNG)
 
 ## MD5 Hash
-005c2d3aaf19f9c52dd105fce5fc71f8
+9fd081cdc8b03175fe33ab1234dbee85
