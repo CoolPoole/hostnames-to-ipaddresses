@@ -1,4 +1,4 @@
-# Python script to take hostnames as input and produce their associated IP address(es)
+1# Python script to take hostnames as input and produce their associated IP address(es)
 # Author: JustCooLpOOLe
 # Version: 1.0
 # License: (o^o)
