@@ -50,7 +50,7 @@ def file_input():
 
             outF.close()
 
-        print("\nNote: Your output was written to", file_out, "\n")
+        print("\nNote: Your output was written to", file_out, "\n")1
     except IOError:
         print("\nYour file does not exist. You may need to specify the full path.")
 
